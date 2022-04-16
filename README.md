@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Project created to practise styled-components and will be developed in a future into fullstack app. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
